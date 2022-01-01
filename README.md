@@ -1,4 +1,4 @@
-# Wizard-Ser
+# Medusa-Max
 
 <div align="center">
 
