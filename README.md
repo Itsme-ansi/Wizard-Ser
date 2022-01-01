@@ -33,15 +33,19 @@
 
 "5" Click Deploy To Heroku & Make New App
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
+<p align="center">
 
 "6" Go To Your App Settings & Click Add Build Pack & Select Node js & Click Save
 
 "7" Copy These Links In Below (one by one) & Go to Your App Settings & Click Add Build Pack And Paste It There & save
 
+```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-
+```
+```
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+```
 
 "8" Switch To Desktop Mode & Click Deploy Then Click Github Icon & Connect To Github
 
@@ -49,7 +53,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 "10" Click Deploy Branch To Deploy
 
-"11" After Deployed Successfully Click Resources & Turn off web node server &Turn on Worker
+"11" After Deployed Successfully Click Resources & Turn off web node server & Enable Worker Npm Start
 
 # Enjoy Medusa Max 💕💕
 
