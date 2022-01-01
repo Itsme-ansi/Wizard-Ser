@@ -26,7 +26,7 @@
 
 "2" Click Run On Repl To Scan Qr
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Nihad-Kaztro/Medusa-Max-Qr)
 
 "3" Copy The Qr Session Code received from your Number
 
