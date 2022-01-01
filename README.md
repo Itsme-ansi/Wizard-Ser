@@ -45,11 +45,14 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 "8" Switch To Desktop Mode & Click Deploy Then Click Github Icon & Connect To Github
 
-"9" After Connected To Github Search Wizard on Repo Name Search Bar & Select Wizard-SER & Connect
+"9" After Connected To Github Search Medusa on Repo Name Search Bar & Select Medusa-Max & Connect
 
 "10" Click Deploy Branch To Deploy
 
 "11" After Deployed Successfully Click Resources & Turn off web node server &Turn on Worker
+
+# Enjoy Medusa Max 💕💕
+
 ## ```HOW TO DEPLOY```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
@@ -104,29 +107,10 @@ Click WA logo to Join Support Group 👇
 ## Developers
   <div align="center">
   
-  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+  [![Nihad-Kaztro](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/Nihad-Kaztro)[`Nihad-Kaztro`](https://github.com/Nihad-Kaztro)
 ----|
-   `Base, Bug Fixes, Modules`
+   `Developer, Base, Bug Fixes, Modules, Commits`
 
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
-----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
-
-   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
-----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
-
-   [![DEVILSER](https://i.imgur.com/CqEfYef.jpeg)](https://github.com/DEVILSER)[`DEVILSER`](https://github.com/DEVILSER)
-----|
-   `Bug Fixes, Modules, Commits`
-
-[![JOKER_SER](https://telegra.ph/file/360ff7e7ca78006e5f8ad.jpg)](https://github.com/JOKER_SER)[`JOKER_SER`](https://github.com/JOKER_SER)
-----|
-   `Bug Fixes, Modules, Commits`
-
-[![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
-----|
-   `Bug Fixes, Modules`
 
 
                                   
