@@ -18,6 +18,38 @@
     </a>
 </p>
 
+# Deploy Manuallly
+
+
+"1" Fork This Repo 🔴{You Need Github Account to Fork This Repo}-------(You Can Only Fork The Repo If You Are In Desktop Mode)
+
+"2" Click Run On Repl To Scan Qr
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+
+"3" Copy The Qr Session Code received from your Number
+
+"4" Edit Session.json & Paste Session Code There
+
+"5" Click Deploy To Heroku & Make New App
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]
+
+"6" Go To Your App Settings & Click Add Build Pack & Select Node js & Click Save
+
+"7" Copy These Links In Below (one by one) & Go to Your App Settings & Click Add Build Pack And Paste It There & save
+
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+
+https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+
+"8" Switch To Desktop Mode & Click Deploy Then Click Github Icon & Connect To Github
+
+"9" After Connected To Github Search Wizard on Repo Name Search Bar & Select Wizard-SER & Connect
+
+"10" Click Deploy Branch To Deploy
+
+"11" After Deployed Successfully Click Resources & Turn off web node server &Turn on Worker
 ## ```HOW TO DEPLOY```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
