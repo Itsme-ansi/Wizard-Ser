@@ -62,7 +62,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ## Developers
   <div align="center">
   
-  [![Nihad-Kaztro](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/Nihad-Kaztro)[`Nihad-Kaztro`](https://github.com/Nihad-Kaztro)
+  [![Nihad-Kaztro](https://imgur.com/a/3vGwDfD)](https://github.com/Nihad-Kaztro)[`Nihad-Kaztro`](https://github.com/Nihad-Kaztro)
 ----|
    `Developer, Base, Bug Fixes, Modules, Commits`
 
