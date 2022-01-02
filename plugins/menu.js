@@ -168,8 +168,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     if (teks == '404') {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
-          "title": `ᴡɪᴢᴀʀᴅ sᴇʀ  ʙʏ ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ,
-┌─────❲ *ᴡɪᴢᴀʀᴅ sᴇʀ* ❳
+          "title": `ᴍᴇᴅᴜsᴀ ᴍᴡᴏʟ ʙʏ ɴɪʜᴀᴅ ᴋᴀᴢᴛʀᴏ,
+┌─────❲ *ᴍᴇᴅᴜsᴀ ᴍᴡᴏʟ* ❳
 ┊
 └─────────────────❋ཻུ۪۪⸙
         
@@ -197,8 +197,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `WIZARD SER`,
-                  "description": "Wizard ser git link",
+                  "title": `Medusa Mwol`,
+                  "description": "Medusa Max git link",
                   "rowId": ".git"
                 }, {
                   "title": "💻Game",
@@ -371,7 +371,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     throw e
   }
 }
-handler.help = ['menu', 'help','list','wizard', '?']
+handler.help = ['menu', 'help','list','medusa', '?']
 handler.tags = ['main']
 handler.command = /^(listt|\?)$/i
 handler.owner = false
