@@ -30,7 +30,7 @@
 
 "3" Copy The Qr Session Code received from your Number
 
-"4" Edit Session.json & Paste Session Code There
+"4" Edit Session.data.json & Paste Session Code There
 
 "5" Click Deploy To Heroku & Make New App
 
