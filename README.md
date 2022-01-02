@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Nihad-Kaztro](ds.jpg)](https://github.com/Nihad-Kaztro/Medusa-Max)
+  [![Nihad-Kaztro](Bot Pic.jpg)](https://github.com/Nihad-Kaztro/Medusa-Max)
 
 <p align="center">
   <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
