@@ -6,9 +6,9 @@ thx to arif
 let handler  = async (m, { itsu, usedPrefix: _p }) => {
   m.reply(' ```Loading...``` ')
   let fs = require('fs')
-  let eror = 'https://telegra.ph/file/50beb3a1485c5853816a5.jpg'
+  let eror = 'https://telegra.ph/file/f3e8f9b8969122828e643.jpg'
   let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? eror : m.sender
-  let pp = 'https://telegra.ph/file/2114ab18f6b1a7181b683.jpg'
+  let pp = 'https://telegra.ph/file/f3e8f9b8969122828e643.jpg'
   try {
     pp = await itsu.getProfilePicture(who)
   } catch (e) {
@@ -254,7 +254,7 @@ const buttons = [
 {buttonId: `/owner`, buttonText: {displayText: 'owner'}, type: 1}
 ]
 const buttonsMessage = {
-    contentText: `Ｈｉ ｕｓｅｒ\nᵢₘ  ${itsu.user.name} \n\n\n- Bot group: ᴛʜᴀʟᴋᴀᴀʟᴀᴍ ɢʀᴏᴜᴘ ɪʟʟᴀ\n\n- Github : https://github.com/Ajmal-Achu\n\n`,
+    contentText: `Ｈｉ ｕｓｅｒ\nᵢₘ  ${itsu.user.name} \n\n\n- Bot group: ᴛʜᴀʟᴋᴀᴀʟᴀᴍ ɢʀᴏᴜᴘ ɪʟʟᴀ\n\n- Github : https://github.com/Nihad-Kaztro\n\n`,
     footerText: text,
     buttons: buttons,
     headerType: 4,
