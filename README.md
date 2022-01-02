@@ -15,6 +15,12 @@
         <img
         src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Medusa+Max+Is+A+Fully+Buttonised+User+Bot" Made+By+Kaztro."
             alt="Typing SVG"
+ <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Made+By+Nihad+Kaztro."
+            alt="Typing SVG"
         />
     </a>
 </p>
