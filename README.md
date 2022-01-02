@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Nihad-Kaztro](BotZPic.jpg)](https://github.com/Nihad-Kaztro/Medusa-Max)
+  [![Nihad-Kaztro](Images/BotxPic.jpg)](https://github.com/Nihad-Kaztro/Medusa-Max)
 
 <p align="center">
   <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -68,7 +68,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ## Developers
   <div align="center">
   
-  [![Nihad-Kaztro](Nihad-Kaztro.jpg)](https://github.com/Nihad-Kaztro)[`Nihad-Kaztro`](https://github.com/Nihad-Kaztro)
+  [![Nihad-Kaztro](Images/BotxOwner.jpg)](https://github.com/Nihad-Kaztro)[`Nihad-Kaztro`](https://github.com/Nihad-Kaztro)
 ----|
    `Developer, Base, Bug Fixes, Modules, Commits`
 
