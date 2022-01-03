@@ -43,18 +43,17 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nihad-Kaztro/Medusa-Max) 
 <p align="center">
 
-"6" Click 2nd heroku 
+"6" Click Go To heroku And Select Your app
+[![Deploy](Images/IMG_20220103_161655.png)](https://heroku.com)
+<p align="center">
 
-"7" Copy These Links In Below (one by one) & Go to Your App Settings & Click Add Build Pack And Paste It There & save
+"7" Switch To Desktop Mode & Click Deploy Then Click Github Icon & Connect To Github
 
+"8" After Connected To Github Search Medusa on Repo Name Search Bar & Select Medusa-Max & Connect
 
-"8" Switch To Desktop Mode & Click Deploy Then Click Github Icon & Connect To Github
+"9" Click Deploy Branch To Deploy
 
-"9" After Connected To Github Search Medusa on Repo Name Search Bar & Select Medusa-Max & Connect
-
-"10" Click Deploy Branch To Deploy
-
-"11" After Deployed Successfully Click Resources & Turn off web node server & Enable Worker Npm Start
+"10" After Deployed Successfully Click Resources & Turn off web node server & Enable Worker Npm Start
 
 # Enjoy Medusa Max 💕💕
 
