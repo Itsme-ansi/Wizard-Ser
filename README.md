@@ -40,7 +40,7 @@
 
 "5" Click Deploy To Heroku & Make New App
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nihad-Kaztro/Medusa-Max) 
 <p align="center">
 
 "6" Go To Your App Settings & Click Add Build Pack & Select Node js & Click Save
