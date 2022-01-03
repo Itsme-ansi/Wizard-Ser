@@ -1,5 +1,5 @@
 {
-  "name": "Medusa-Max",
+"name": "Medusa-Max",
   "logo": "https://i.imgur.com/rz925SG.jpeg",
   "description": "Buttonised WhatsApp Bot",
   "repository": "https://github.com/Nihad-Kaztro/Medusa-Max/",
@@ -9,7 +9,7 @@
     "whatsapp",
     "whatsapp-bot"
 
-"buildpacks": [
+   "buildpacks": [
 
         {
 
@@ -30,3 +30,4 @@
         }
 
     ]
+}
